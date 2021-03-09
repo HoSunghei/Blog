@@ -5,6 +5,7 @@
 <h2>目录</h2>
 
 ●<a href="https://github.com/HoSunghei/Blog/issues/4">JS的数据类型</a></br>
+●<a href="https://github.com/HoSunghei/Blog/issues/5">变量声明（var、let、const）</a></br>
 ●<a href="https://github.com/HoSunghei/Blog/issues/3">对象的引用和复制（浅拷贝和深拷贝）</a></br>
 ●<a href="https://github.com/HoSunghei/Blog/issues/1">什么是异步编程</a></br>
 ●<a href="https://github.com/HoSunghei/Blog/issues/2">JS的事件循环机制（Event Loop）</a></br>
